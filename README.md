@@ -1,4 +1,4 @@
-# Unsupervised machine learning using K-Means clustering
+## Unsupervised machine learning using K-Means clustering with R
 
 Unsupervised learning means that there is no outcome to be predicted, and the algorithm just tries to find patterns in the data. 
 K Means Clustering is an unsupervised learning algorithm that tries to cluster data based on their similarity. 
